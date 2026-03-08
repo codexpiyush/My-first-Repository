@@ -50,5 +50,6 @@ for i in range(len(index3)):
 print("Name and mark of student by your 4.criteri are : ")
 for i in range(len(index4)):
     print(name[index4[i]],mark[index4[i]])
+print("Name and mark of student by your 5.criteri are : ")
 for i in range(len(index5)):
     print(name[index5[i]],mark[index5[i]])
